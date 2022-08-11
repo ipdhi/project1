@@ -1,0 +1,23 @@
+@font-face { font-family: "Roboto-Black"; src: url("Roboto-Black.ttf"); }
+@font-face { font-family: "Roboto-Regular"; src: url("Roboto-Regular.ttf"); }
+@font-face { font-family: "Roboto-Thin"; src: url("Roboto-Thin.ttf"); }
+ /*text-align: center;*/
+body {
+    font-family: Roboto-Regular, Arial, sans-serif;
+   background-image:url(https://animeshka.org/uploads/posts/2022-07/1657339019_48-animeshka-org-p-crucifixes-and-zeros-background-foni-56.jpg);
+   color: #ffffff;
+   box-sizing: border-box;
+   margin: 120px auto 20px;
+   border: 5px solid rgb(47, 40, 78);
+   padding: 20px;
+   width: 380px;
+ border-radius: 20px;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;           /* Non-prefixed version, currently
+                                not supported by any browser */
+
+}
